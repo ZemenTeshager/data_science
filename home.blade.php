@@ -1,0 +1,1 @@
+@foreach($projects as $project)
